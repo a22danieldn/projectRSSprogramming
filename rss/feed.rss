@@ -12,5 +12,17 @@
             <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
             <description>Tricks about Java</description>
         </item>
+        <item>
+            <title>Kotlin</title>
+            <link>https://a22danieldn.github.io/projectRSSprogramming/kotlin.html</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
+            <description>Learning about Kotlin</description>
+        </item>
+        <item>
+            <title>Python</title>
+            <link>https://a22danieldn.github.io/projectRSSprogramming/python.html</link>
+            <pubDate>Tue, 22 Nov 2022 10:00:00 GMT+1</pubDate>
+            <description>Information about Python</description>
+        </item>
     </channel>
 </rss>
